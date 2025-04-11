@@ -7,7 +7,6 @@
                "lack-util"
                "bordeaux-threads"
                "usocket"
-               "swank"
                "alexandria"
                "uiop")
   :components ((:module "src"
